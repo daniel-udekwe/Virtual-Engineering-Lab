@@ -1,0 +1,77 @@
+
+10/19/2024 10:15:23 -  - SaveGraph-TTerraWorldGraph.cs-363
+10/19/2024 10:15:23 - Assets/TerraWorld/World Resources/Scenes/2024-10-19-10-05-19/graph.xml - LoadGraph-TTerraworldGenerator.cs-52
+10/19/2024 10:15:23 - Load Graph - LoadGraph-TTerraWorldGraph.cs-554
+10/19/2024 10:15:23 -  - SaveGraph-TTerraWorldGraph.cs-363
+10/19/2024 10:15:23 -  - SaveGraph-TTerraWorldGraph.cs-363
+10/19/2024 10:15:23 - True - RunWorldGraph-TTerraworldGenerator.cs-61
+10/19/2024 10:15:23 -  - SaveGraph-TTerraWorldGraph.cs-363
+10/19/2024 10:15:26 -  - CreateWorld-TTerrainGenerator.cs-244
+10/19/2024 10:15:26 - Fetching Data From Servers... - CreateWorld-TTerrainGenerator.cs-272
+10/19/2024 10:15:26 -  - InitBGTerrain-TTerrainGenerator.cs-284
+10/19/2024 10:15:26 -  - InitMainTerrains-TTerrainGenerator.cs-351
+10/19/2024 10:15:26 -  - .ctor-TTerraWorld.cs-247
+10/19/2024 10:15:26 -  - UpdateTerraWorld-TTerraWorld.cs-261
+10/19/2024 10:15:26 -  - UpdateTerrain-TTerrain.cs-100
+10/19/2024 10:15:26 -  - .ctor-TMap.cs-158
+10/19/2024 10:15:26 -  - Initialize-TMap.cs-167
+10/19/2024 10:15:26 -  - UpdateMap-TMap.cs-296
+10/19/2024 10:15:26 -  - IsHeightmapAvailable-TMap.cs-372
+10/19/2024 10:15:26 - Heighmap data is not available for zoomlevel:18
+10/19/2024 10:15:26 -  - IsHeightmapAvailable-TMap.cs-372
+10/19/2024 10:15:26 - Heighmap data is not available for zoomlevel:17
+10/19/2024 10:15:26 -  - IsHeightmapAvailable-TMap.cs-372
+10/19/2024 10:15:26 -  - Initialize-TMap.cs-167
+10/19/2024 10:15:26 -  - UpdateElevationData-TMap.cs-394
+10/19/2024 10:15:26 -  - UpdateImageryData-TMap.cs-405
+10/19/2024 10:15:26 -  - UpdateLandCoverData-TMap.cs-427
+10/19/2024 10:15:27 -  - AfterDataDownloaded-TMap.cs-446
+10/19/2024 10:15:27 -  - AfterUpdateCompletedImagery-TMap.cs-613
+10/19/2024 10:15:27 -  - AfterUpdateCompletedLandcover-TMap.cs-629
+10/19/2024 10:15:27 -  - AfterUpdateCompletedElevation-TMap.cs-599
+10/19/2024 10:15:27 -  - WhenAllDone-TMap.cs-637
+10/19/2024 10:15:27 -  - TerrainAnalysis-TTerrain.cs-175
+10/19/2024 10:15:27 -  - CheckGraph-TTerrain.cs-254
+10/19/2024 10:15:28 - RunAllModules - Water Interpreter  - ProcessWaterGenerator-TTerrain.cs-312
+10/19/2024 10:15:30 - Water Node : Water Generator From Landcover (1) - ProcessWaterGenerator-TTerrain.cs-325
+10/19/2024 10:15:30 - RunAllModules - ColorMap  - ProcessColormapGraph-TTerrain.cs-352
+10/19/2024 10:15:31 - RunAllModules - TerrainLayers  - ProcessTerrainLayers-TTerrain.cs-386
+10/19/2024 10:15:33 - RunAllModules - Meshes  - ProcessMeshGenerators-TTerrain.cs-424
+10/19/2024 10:15:33 - RunAllModules - Meshes  - ProcessMeshGenerators-TTerrain.cs-424
+10/19/2024 10:15:34 - RunAllModules - Object & Tree Scatters  - ProcessScatterNodesGameObject-TTerrain.cs-456
+10/19/2024 10:15:35 - RunAllModules - GPU Instance Scatters  - ProcessScatterNodesGPUInstances-TTerrain.cs-498
+10/19/2024 10:15:35 - RunAllModules - Grass Scatters  - ProcessGrassScatterNodes-TTerrain.cs-530
+10/19/2024 10:15:36 - RunAllModules - Rendering Nodes  - ProcessRenderingNodes-TTerrain.cs-562
+10/19/2024 10:15:36 - RunAllModules - Audio Nodes  - ProcessAudioNodes-TTerrain.cs-584
+10/19/2024 10:15:38 -  - WhenAllDone-TTerrain.cs-260
+10/19/2024 10:15:38 -  - EachTerrainDone-TTerraWorld.cs-370
+10/19/2024 10:15:38 -  - WhenAllDone-TTerraWorld.cs-379
+10/19/2024 10:15:38 -  - ApplyOnTerrain-TTerrainGenerator.cs-616
+10/19/2024 10:15:40 - Generating World... - ApplyTerrrainAfterDelay-TTerrainGenerator.cs-762
+10/19/2024 10:15:40 -  - InitializeTerrain-TTerrainGenerator.cs-639
+10/19/2024 10:15:40 - ApplyLakesOnTerrain - ApplyLakesAndOceansOnTerrain-TTerrainGenerator.cs-1037
+10/19/2024 10:15:40 -  - InitMesh_TriangleNet-TTerrainGenerator.cs-1966
+10/19/2024 10:15:40 -  - InitMesh_TriangleNet-TTerrainGenerator.cs-1966
+10/19/2024 10:15:40 -  - InitMesh_TriangleNet-TTerrainGenerator.cs-1966
+10/19/2024 10:15:40 -  - InitMesh_TriangleNet-TTerrainGenerator.cs-1966
+10/19/2024 10:15:40 -  - InitMesh_TriangleNet-TTerrainGenerator.cs-1966
+10/19/2024 10:15:40 -  - InitMesh_TriangleNet-TTerrainGenerator.cs-1966
+10/19/2024 10:15:40 -  - InitMesh_TriangleNet-TTerrainGenerator.cs-1966
+10/19/2024 10:15:40 -  - InitMesh_TriangleNet-TTerrainGenerator.cs-1966
+10/19/2024 10:15:40 -  - InitMesh_TriangleNet-TTerrainGenerator.cs-1966
+10/19/2024 10:15:40 -  - InitMesh_TriangleNet-TTerrainGenerator.cs-1966
+10/19/2024 10:15:40 -  - InitMesh_TriangleNet-TTerrainGenerator.cs-1966
+10/19/2024 10:15:40 - UpdateTerrainHeightmap - UpdateTerrainHeightmap-TTerrainGenerator.cs-811
+10/19/2024 10:15:40 - UpdateTerrainImagery - UpdateTerrainImagery-TTerrainGenerator.cs-833
+10/19/2024 10:15:40 - GetColorMap - GetColorMap-TDetailTextureLayer.cs-204
+10/19/2024 10:15:40 - GetAplphaMaps - GetAplphaMaps-TDetailTextureLayer.cs-43
+10/19/2024 10:15:41 - ApplyRiversOnTerrain - ApplyRiversOnTerrain-TTerrainGenerator.cs-1297
+10/19/2024 10:15:41 - ApplyGridsOnTerrain - ApplyGridsOnTerrain-TTerrainGenerator.cs-1473
+10/19/2024 10:15:41 - PlaceTerrainObjectLayers - PlaceTerrainObjectLayers-TTerrainGenerator.cs-1577
+10/19/2024 10:15:41 - PlaceGameObjectLayers - PlaceGameObjectLayers-TTerrainGenerator.cs-1690
+10/19/2024 10:15:41 - ApplyGrassOnTerrain - ApplyGrassOnTerrain-TTerrainGenerator.cs-1789
+10/19/2024 10:15:42 -  - OnFinished-TTerraworldGenerator.cs-177
+10/19/2024 10:15:42 - InitInstancesLayer - InitInstancesLayer-TTerraworldGenerator.cs-210
+10/19/2024 10:15:49 - CleanUp - CleanUpUnderTerrainObjects-TTerraworldGenerator.cs-497
+10/19/2024 10:15:49 -  - ClearMemory-TTerrainGenerator.cs-2039
+10/19/2024 10:15:49 - Finish! - ApplyRealTimeSettings-TTerraworldGenerator.cs-170

@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Respawn
+  - Fire
+  - Interactable
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - Terra_Vegetation
+  - Terra_Geometry
+  - Player
+  - Target
+  - Weapon
+  - Projectile
+  - PlayerCollisionOnly
+  - TW_Default
+  - Terrain
+  - Building
+  - Biome
+  - Road
+  - 
+  - holdLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
