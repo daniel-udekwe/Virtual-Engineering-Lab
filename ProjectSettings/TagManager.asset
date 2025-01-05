@@ -4,9 +4,29 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Respawn
-  - Fire
-  - Interactable
+  - HumanType
+  - Region
+  - HumanPoint
+  - VehiclePoint
+  - Zone
+  - Vehicle
+  - TrafficLights
+  - PedestrianLights
+  - Territory
+  - LightZone01
+  - LightZone02
+  - LightZone03
+  - LightZone04
+  - LightZone05
+  - LightZone06
+  - LightZone07
+  - StaticVehiclePoint
+  - Human
+  - PedestrianSound
+  - LeftWheel
+  - RightWheel
+  - StaticVehicle
+  - Driver
   layers:
   - Default
   - TransparentFX
@@ -16,21 +36,21 @@ TagManager:
   - UI
   - 
   - 
-  - PostProcessing
-  - Terra_Vegetation
-  - Terra_Geometry
-  - Player
-  - Target
-  - Weapon
-  - Projectile
-  - PlayerCollisionOnly
-  - TW_Default
-  - Terrain
-  - Building
-  - Biome
-  - Road
   - 
-  - holdLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
   - 
   - 
   - 

@@ -10042,7 +10042,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!95 &369274530
 Animator:
   serializedVersion: 5
@@ -18441,7 +18441,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &680718462
 Transform:
   m_ObjectHideFlags: 0
@@ -43660,7 +43660,7 @@ MonoBehaviour:
   speed: 8
   gravity: -12
   jumpHeight: 2
-  groundCheck: {fileID: 0}
+  groundCheck: {fileID: 1321874691}
   groundLayer:
     serializedVersion: 2
     m_Bits: 0
