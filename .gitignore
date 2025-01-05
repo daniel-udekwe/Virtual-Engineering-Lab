@@ -13,6 +13,9 @@
 #Ignore the Terrain Data
 [Aa]ssets/TerrainDemoScene_URP/
 
+#Ignore the resources folder of the realistic city
+[Aa]ssets/Resources/
+
 #Ignore the gitattributes file because we're ditching large file storage (LFS)
 #.gitattributes
 
